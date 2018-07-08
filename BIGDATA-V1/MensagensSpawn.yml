@@ -1,0 +1,13 @@
+#Ao digitar /spawn
+Spawn_Nao_Existe_Spawn: "&cO spawn nao existe!"
+Spawn: "&3Voce foi teleportado para o spawn!"
+
+#Ao digitar /setspawn
+Spawn_Ja_Existe: "&cO spawn ja existe delete antes de tentar setar de novo!"
+Spawn_Setado: "&3O spawn foi setado!"
+
+#Ao digitar /delspawn
+Spawn_Nao_Existe_Delete: "&cO spawn nao pode ser deletado, pois ele nao existe!"
+Spawn_Deletado: "&cO spawn foi deletado!"
+
+#Efeitos ... add depois

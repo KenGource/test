@@ -1,0 +1,12 @@
+main: me.main.Main
+name: BIGDATA-V1
+version: BETA
+author: [Keniaaa]
+description: BIGDATA nao e apenas um plugin, e um servidor.
+website: www.keniaaa.com
+
+commands:
+  spawn:
+  setspawn:
+  delspawn:
+  atualizacoes:
